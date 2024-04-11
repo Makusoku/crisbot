@@ -2,7 +2,7 @@
 using namespace std;
 typedef long long ll;
 
-void solve() {}
+void solve() { cout << "Como odio los tokens\n"; }
 
 int main() {
   ios::sync_with_stdio(0);
